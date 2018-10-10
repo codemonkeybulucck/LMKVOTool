@@ -34,3 +34,5 @@ for example:
 ```
     [self.kvoButton lm_removeObserver:self key:@"backgroundColor"];
 ```
+
+[自己动手实现KVO](http://lemon2well.top/2018/10/10/iOS%20开发/iOS动手实现KVO/)
